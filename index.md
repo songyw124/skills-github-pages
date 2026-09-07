@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Wilkommen / Welcome!
 ---
+
+Welcome to my blog website!
